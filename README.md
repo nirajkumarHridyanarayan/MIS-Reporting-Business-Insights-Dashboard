@@ -16,17 +16,15 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 
 
 ## DATA VISUALIZATION
-##### i. Entity Relationship Diagram Model
-![1  Model Relations](https://user-images.githubusercontent.com/45898995/119708373-e8bfb780-be7d-11eb-90b2-5da0afdedcce.PNG)
 
-#### ii. Sales Overview DASHBOARD
-![2  Sales Overview](https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png)
+#### i. Sales Overview DASHBOARD
+<img width="1324" height="746" alt="Screenshot 2026-03-26 195109" src="https://github.com/user-attachments/assets/0195208f-2266-4da8-b18e-f8560e84a5c2" />
 
-#### iii. Customer Details DASHBOARD
-![3  Customer Details](https://user-images.githubusercontent.com/45898995/119709961-a4351b80-be7f-11eb-87b8-13c6315b6eba.png)
+#### ii. Customer Details DASHBOARD
+<img width="1329" height="739" alt="Screenshot 2026-03-26 195132" src="https://github.com/user-attachments/assets/38b50e76-e511-4fc0-8925-bd23ec0b34b3" />
 
-#### iv. Product Details DASHBOARD
-![4  Product Details](https://user-images.githubusercontent.com/45898995/119710084-c464da80-be7f-11eb-90b3-8e50a0f4ae20.png)
+#### iii. Product Details DASHBOARD
+<img width="1329" height="744" alt="image" src="https://github.com/user-attachments/assets/ecad2cdd-8053-4076-befe-c2cccf75f56d" />
 
 
 
